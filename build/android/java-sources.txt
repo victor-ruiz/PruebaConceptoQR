@@ -1,0 +1,8 @@
+"/home/victor/Escritorio/Appcelerator_Studio_Workspace/PruebaQR/build/android/gen/android/support/v7/appcompat/R.java"
+"/home/victor/Escritorio/Appcelerator_Studio_Workspace/PruebaQR/build/android/gen/android/support/v7/cardview/R.java"
+"/home/victor/Escritorio/Appcelerator_Studio_Workspace/PruebaQR/build/android/gen/com/pruebaqr/app/AssetCryptImpl.java"
+"/home/victor/Escritorio/Appcelerator_Studio_Workspace/PruebaQR/build/android/gen/com/pruebaqr/app/PruebaqrActivity.java"
+"/home/victor/Escritorio/Appcelerator_Studio_Workspace/PruebaQR/build/android/gen/com/pruebaqr/app/PruebaqrAppInfo.java"
+"/home/victor/Escritorio/Appcelerator_Studio_Workspace/PruebaQR/build/android/gen/com/pruebaqr/app/PruebaqrApplication.java"
+"/home/victor/Escritorio/Appcelerator_Studio_Workspace/PruebaQR/build/android/gen/com/pruebaqr/app/R.java"
+"/home/victor/Escritorio/Appcelerator_Studio_Workspace/PruebaQR/build/android/gen/ti/modules/titanium/ui/R.java"

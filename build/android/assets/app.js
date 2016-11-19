@@ -1,0 +1,1 @@
+/home/victor/Escritorio/Appcelerator_Studio_Workspace/PruebaQR/Resources/app.js
